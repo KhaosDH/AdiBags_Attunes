@@ -8,6 +8,7 @@ Add catagory in AdiBags "needs Attune"
 ## Dependencies
 
 - [SynastriaCoreLib](https://github.com/imevul/SynastriaCoreLib/releases)
+- [AdiBags for 3.3.5a](https://felbite.com/addon/4246-adibags/)
 
 ## Installation
 
